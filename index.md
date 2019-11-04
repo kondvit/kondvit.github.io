@@ -5,7 +5,7 @@
 ### C# 
 
 [Cannon And Ghosts (Collision from Scratch, Verlet Integration, Perlin Noise)](/sample_page)
-<img src="images/sample.gif?raw=true"/>
+<img src="images/sampleCAG.gif?raw=true"/>
 
 ---
 
