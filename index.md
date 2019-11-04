@@ -19,7 +19,7 @@
 
 ### C++
 
-[Project 1 Title](http://example.com/)
+[Snake](http://example.com/)
 <img src="images/snake.gif?raw=true"/>
 
 ---
