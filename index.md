@@ -4,7 +4,7 @@
 
 ### C# 
 
-[Cannon And Ghosts (Collision from Scratch, Verlet Integration, Perlin Noise)](/sample_page)
+[Cannon And Ghosts](/sample_page)
 <img src="images/sampleCAG.gif?raw=true"/>
 
 ---
