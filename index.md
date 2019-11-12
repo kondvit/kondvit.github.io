@@ -4,7 +4,7 @@
 
 ### C# 
 
-[Cannon And Ghosts](/sample_page)
+[Cannon And Ghosts](/Cannon-And-Ghosts)
 <img src="images/sampleCAG2.gif?raw=true"/>
 
 ---
