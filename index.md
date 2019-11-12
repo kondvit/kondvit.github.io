@@ -4,7 +4,7 @@
 
 ### C# 
 
-[Cannon And Ghosts](/Cannon-And-Ghosts)
+[Cannon And Ghosts](https://github.com/kondvit/Cannon-And-Ghosts)
 <img src="images/sampleCAG2.gif?raw=true"/>
 
 ---
