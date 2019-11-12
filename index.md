@@ -4,7 +4,7 @@
 
 ### C# 
 
-[Spice Road (work in progress) (AI action planner)](https://github.com/kondvit/Cannon-And-Ghosts)
+[Spice Road](https://github.com/kondvit/Cannon-And-Ghosts)
 <img src="images/caravansample.gif?raw=true"/>
 
 ---
