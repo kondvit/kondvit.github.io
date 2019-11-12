@@ -5,7 +5,7 @@
 ### C# 
 
 [Cannon And Ghosts](https://github.com/kondvit/Cannon-And-Ghosts)
-<img src="images/ghosts.gif?raw=true"/>
+<img src="images/ghosts2.gif?raw=true"/>
 
 ---
 
