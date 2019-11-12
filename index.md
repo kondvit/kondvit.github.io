@@ -5,7 +5,7 @@
 ### C# 
 
 [Cannon And Ghosts](/sample_page)
-<img src="images/sampleCAG.gif?raw=true"/>
+<img src="images/sampleCAG2.gif?raw=true"/>
 
 ---
 
