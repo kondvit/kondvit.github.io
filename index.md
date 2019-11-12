@@ -10,7 +10,7 @@
 ---
 
 [Cannon And Ghosts](https://github.com/kondvit/Cannon-And-Ghosts)
-<img src="images/confusingmazesample3.gif?raw=false"/>
+<img src="images/confusingmazesample4.gif?raw=false"/>
 
 ---
 
