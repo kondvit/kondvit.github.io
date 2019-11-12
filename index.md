@@ -4,6 +4,11 @@
 
 ### C# 
 
+[Spice Road (work in progress) (AI action planner)](https://github.com/kondvit/Cannon-And-Ghosts)
+<img src="images/caravansample.gif?raw=true"/>
+
+---
+
 [Cannon And Ghosts](https://github.com/kondvit/Cannon-And-Ghosts)
 <img src="images/ghosts2.gif?raw=true"/>
 
