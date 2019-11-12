@@ -9,7 +9,7 @@
 
 ---
 
-[Cannon And Ghosts](https://github.com/kondvit/Cannon-And-Ghosts)
+[Confusing Maze](https://github.com/kondvit/Confusing-Maze)
 <img src="images/confusingmazesample4.gif?raw=false"/>
 
 ---
